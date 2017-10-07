@@ -1,2 +1,5 @@
 # domain_name_scripts
-Scripts to query whois for unclaimed domain names
+
+Hacky scripts that I use to query whois for unclaimed domain names
+
+Quick and simple to understand - did the job!
